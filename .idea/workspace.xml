@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a98e3d24-47bd-4a2d-b91c-afcf06c926cc" name="Changes" comment="ДЗ 4">
+    <list default="true" id="a98e3d24-47bd-4a2d-b91c-afcf06c926cc" name="Changes" comment="ДЗ 4 правки">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Homework4/GetMetaData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Homework4/GetMetaData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Homework4/UserMeta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Homework4/UserMeta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Homework4/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Homework4/Runner.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,7 +96,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663344593666</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="ДЗ 4 правки">
+      <created>1663345949915</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1663345949915</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -114,6 +120,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="дз №2" />
     <MESSAGE value="ДЗ 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="ДЗ 4" />
+    <MESSAGE value="ДЗ 4 правки" />
+    <option name="LAST_COMMIT_MESSAGE" value="ДЗ 4 правки" />
   </component>
 </project>
