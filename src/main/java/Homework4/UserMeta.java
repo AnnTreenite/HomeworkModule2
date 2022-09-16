@@ -1,5 +1,5 @@
 package main.java.Homework4;
-
+@GetMetaData
 public class UserMeta {
     @GetMetaData
     public String name;
